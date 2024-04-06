@@ -12,7 +12,7 @@ import { RiLoader2Fill } from "react-icons/ri";
 import { TiWeatherPartlySunny } from "react-icons/ti";
 import axios from "axios";
 import React from "react";
-import App from "../App";
+
 
 
 type WeatherDataProps = {
